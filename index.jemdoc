@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU1}{index.html}
+==Xun Deng (邓迅)
+
+~~~
+{}{img_left}{portrait.jpg}{alt text}{200}{246}
+\n \n
+Xun Deng \n 
+Ph.D. Student \n 
+University of Science and Technology of China \n 
+Email: dx981228@mail.ustc.edu.cn \n 
+[https://scholar.google.com/citations?user=LILR85MAAAAJ&hl=en Google Scholar] / [https://x.com/xun1461826 Twitter] / [Wechat1.jpeg WeChat]
+~~~
+
+== About Me 
+
+I am a Ph.D. student at University of Science and Technology of China (USTC), where I am fortunate to be advised by Professor [https://hexiangnan.github.io/ Xiangnan He] and [https://fulifeng.github.io/ Fuli Feng]. Before that, I obtained a bachelor's degree in Electronic Information Engineering from USTC.
+
+My research primarily focuses on the application of active learning across various fundamental machine learning tasks, aiming to explore efficient methods for selecting high-quality samples and achieving stable and sample-efficient model training. Specifically, my research interests encompass supervised learning, unsupervised clustering, virtual screening, and post-training of large language models. In these areas, I particularly emphasize the efficient generalization capabilities of models within the active learning framework and am dedicated to enhancing model performance in complex scenarios. If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
+
+== Publications
+
++Test-time Adaptation:+ We study how to achieve more reliable and accurate predictions in the evaluation phase in the presence of distribution shifts.
+
+- [https://ieeexplore.ieee.org/document/10102266 Learning to Double-Check Model Prediction From a Causal Perspective] \n 
+Xun Deng, Fuli Feng, Xiang Wang, Xiangnan He, Hanwang Zhang, Tat-Seng Chua \n 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2023 \n 
+
+- Improving the Hit Rates of Virtual Screening by Active Learning from Bioactivity Feedback \n
+Xun Deng, Junlong Liu, Zhike Liu, Jiansheng Wu, Jieping Ye, Fuli Feng, and Zheng Wang \n
+Major Revision at ACS Journal of Chemical Theory and Computation \n
+
++Active Learning for Efficient Model Training:+ We study how to select high-quality samples for annotation under Out-of-Distribution (OOD) scenarios.
+
+- [https://aclanthology.org/2023.acl-long.636/ Counterfactual active learning for out-of-distribution generalization] \n 
+Xun Deng, Wenjie Wang, Fuli Feng, Hanwang Zhang, Xiangnan He, Yong Liao \n 
+Association for Computational Linguistics (ACL) 2023 \n 
+
+- [https://arxiv.org/abs/2407.10196 A3S: A General Active Clustering Method with Pairwise Constraints] \n 
+Xun Deng, Junlong Liu, Han Zhong, Fuli Feng, Chen Shen, Xiangnan He, Jieping Ye, Zheng Wang \n
+International Conference on Machine Learning (ICML) 2024 \n
+
++Others Related to Reinforcement Learning.+
+
+- [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n
+Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li \n 
+Second round of review at Journal of the American Statistical Association (JASA) \n
