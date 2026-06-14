@@ -15,7 +15,9 @@ Email: dx981228@mail.ustc.edu.cn \n
 
 I am a Ph.D. student at University of Science and Technology of China (USTC), where I am fortunate to be advised by Professor [https://hexiangnan.github.io/ Xiangnan He] and [https://fulifeng.github.io/ Fuli Feng]. Before that, I obtained a bachelor's degree in Electronic Information Engineering from USTC.
 
-My research primarily focuses on the application of active learning across various fundamental machine learning tasks, aiming to explore efficient methods for selecting high-quality samples and achieving stable and sample-efficient model training. Specifically, my research interests encompass supervised learning, unsupervised clustering, virtual screening, and post-training of large language models. In these areas, I particularly emphasize the efficient generalization capabilities of models within the active learning framework and am dedicated to enhancing model performance in complex scenarios. If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
+My research focuses on Human-in-the-Loop across fundamental machine learning tasks — developing efficient methods for high-quality sample selection and sample-efficient model training. Looking forward, I am especially interested in two directions. The first is data measure and selection for LLM post-training: designing principled criteria for curating diverse training signals — including long reasoning traces, preference pairs, and agentic trajectories in software engineering — to maximize post-training efficiency and generalization. The second is automatic data quality discovery: developing recursive analysis and validation frameworks that surface latent patterns distinguishing high- from low-quality samples, enabling scalable and self-improving data curation pipelines.
+
+If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
 
 == Publications
 
@@ -25,11 +27,11 @@ My research primarily focuses on the application of active learning across vario
 Xun Deng, Fuli Feng, Xiang Wang, Xiangnan He, Hanwang Zhang, Tat-Seng Chua \n 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2023 \n 
 
-- Improving the Hit Rates of Virtual Screening by Active Learning from Bioactivity Feedback \n
+- [https://pubs.acs.org/doi/10.1021/acs.jctc.4c01618 Improving the Hit Rates of Virtual Screening by Active Learning from Bioactivity Feedback] \n
 Xun Deng, Junlong Liu, Zhike Liu, Jiansheng Wu, Jieping Ye, Fuli Feng, and Zheng Wang \n
-Major Revision at ACS Journal of Chemical Theory and Computation \n
+ACS Journal of Chemical Theory and Computation 2025\n
 
-+Active Learning for Efficient Model Training:+ We study how to select high-quality samples for annotation under Out-of-Distribution (OOD) scenarios.
++Active Learning for Efficient Model Training:+ We study how to select high-quality samples for annotation and robust training under Out-of-Distribution (OOD) scenarios.
 
 - [https://aclanthology.org/2023.acl-long.636/ Counterfactual active learning for out-of-distribution generalization] \n 
 Xun Deng, Wenjie Wang, Fuli Feng, Hanwang Zhang, Xiangnan He, Yong Liao \n 
@@ -41,9 +43,18 @@ International Conference on Machine Learning (ICML) 2024 \n
 
 - [https://arxiv.org/abs/2502.14560 Less is More: Improving LLM Alignment via Preference Data Selection] \n
 Xun Deng, Han Zhong, Rui Ai, Fuli Feng, Zheng Wang, Xiangnan He \n
+Annual Conference on Neural Information Processing Systems (NeurIPS Spotlight) 2025 \n 
 
-+Others Related to Reinforcement Learning.+
++Others Related to Reinforcement Learning and LLMs.+
 
-- [https://arxiv.org/abs/2012.14098 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n
+- [https://www.tandfonline.com/doi/pdf/10.1080/01621459.2025.2583501 Risk-Sensitive Deep RL: Variance-Constrained Actor-Critic Provably Finds Globally Optimal Policy] \n
 Han Zhong, Xun Deng, Ethan X. Fang, Zhuoran Yang, Zhaoran Wang, Runze Li \n 
-Major Revision at Journal of the American Statistical Association (JASA) \n
+Journal of the American Statistical Association (JASA) 2025 \n
+
+- [https://arxiv.org/abs/2510.18927 BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping] \n 
+Zhiheng Xi (and others from Fudan), Xun Deng, Rui Zheng, Hang Yan (and others from Qijizhifeng), Tao Gui, Qi Zhang, Xuanjing Huang \n 
+International Conference on Learning Representations (ICLR) 2026 \n 
+
+- [https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.510.pdf Assistant-Guided Mitigation of Teacher Preference Bias in LLM-as-a-Judge] \n 
+Zhuo Liu, Moxin Li, Xun Deng, Qifan Wang, Fuli Feng \n 
+Findings of the Association for Computational Linguistics: EMNLP 2025 \n
