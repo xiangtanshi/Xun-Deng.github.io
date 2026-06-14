@@ -19,6 +19,17 @@ My research focuses on Human-in-the-Loop across fundamental machine learning tas
 
 If you share common interests and would like to explore collaboration or simply have a discussion, feel free to contact me.
 
+== Internship Experience
+
+- +Alibaba Tongyi Lab — Research Intern (Since July 2022)+ \n
+Built upon multi-view clustering techniques to mitigate the degradation in clustering precision caused by outlier samples. The resulting human-in-the-loop framework reduced both computational and wet-lab costs for active molecule discovery in molecular docking by two orders of magnitude.
+
+- +Shanghai Qiji Zhifeng Co., Ltd. — Research Intern (Since March 2025)+ \n
+Conducted large-scale ablation studies on distilled data to investigate performance upper bounds under the knowledge distillation paradigm for mathematical reasoning. Improved PPO/GRPO training through redesigned advantage estimation and enhanced training stability. The resulting techniques were adopted in training the [https://nex-agi.cn Nex-N2] model, which achieves leading open-source performance on agentic benchmarks.
+
+- +Tencent CSIG, CodeBuddy/WorkBuddy Team — Research Intern (Since March 2026)+ \n
+Developed a composite data selection method for software engineering agent trajectories, jointly optimizing task difficulty, distributional diversity, and the extent of environment interaction. Achieved performance comparable to Kimi-Dev using less than one-tenth of the data, and investigated data scaling strategies for the mid-training of coding LLMs.
+
 == Publications
 
 +Test-time Adaptation:+ We study how to achieve more reliable and accurate predictions in the evaluation phase in the presence of distribution shifts.
